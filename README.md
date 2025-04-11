@@ -15,12 +15,13 @@
 
 ### از طریق فایل فشرده (روش دستی)
 
-فایل اکستنشن را از قسمت ریلیز ها دانلود کنید. 
+فایل اکستنشن را از قسمت ریلیز ها یا از دکمه پایین دانلود کنید. 
 <p align="center">
   <a href="https://github.com/parsico/nimbaha/releases/download/v1.0/ploud.zip">
     <img src="https://img.shields.io/badge/⬇️%20Download%20Extension-ploud.zip-blue?style=for-the-badge" alt="Download Extension">
   </a>
 </p>
+
 وارد تنظیمات مرورگر شوید و به بخش Extensions بروید.
 
 حالت Developer mode را فعال کنید.
